@@ -3,7 +3,8 @@
 # Contacts #
 * Tel + 375 29 3189187
 * E-mail: lazarenkan@gmail.com
-__My major goal to began a front-end developer. I my opinion i have enough purposefulness to rich it.__
+ 
+ __My major goal to began a front-end developer. I my opinion i have enough purposefulness to rich it.__
 # Skills #
 * HTML 
 * CSS
@@ -18,6 +19,6 @@ const func = (num) => {
 };
 ```
 # Education #
-__I have been graduated in BNTU (constructor). After two months i completed basic it-courses__
+I have been graduated in BNTU (constructor). After two months i completed basic it-courses.
 # English # 
-__B1. When i was a sudent i spent my vacations in UK__ 
+B1. When i was a sudent i spent my vacations in UK
